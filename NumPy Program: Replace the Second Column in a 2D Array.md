@@ -30,6 +30,7 @@ print("\nUpdated Array with Replaced Column:")
 print(updated_array)
 ```
 ## Output
+```
 Original Array:
 [[1 2 3]
  [4 5 6]
@@ -42,6 +43,6 @@ Updated Array with Replaced Column:
 [[ 1 20  3]
  [ 4 50  6]
  [ 7 80  9]]
-
+```
 ## Result
 Hence deleteed the second column from a given 2D array and inserts a new column at the same position.
